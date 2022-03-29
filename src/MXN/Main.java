@@ -3,7 +3,9 @@ package MXN;
 public class Main {
 
     public static void main(String[] args) {
+
     // Задание 1
+
     byte Weght = 91;
     short crackers = 700;
     int grape = 1001;
@@ -14,6 +16,7 @@ public class Main {
     boolean isWeight = Weght <= 101;
 
     // Задание 2
+
         double sportsmanBlue = 78.2;
         double sportsmanPink = 82.7;
         double weightAllSporstsams = sportsmanBlue + sportsmanPink;
@@ -22,6 +25,7 @@ public class Main {
         System.out.println("Разница в весе спортсменов " + weightDiffewrence + " кг");
 
         // Задание 3
+
         byte banana = 5;
         byte milk = 2;
         byte iceCreamPlombire = 2;
@@ -34,6 +38,7 @@ public class Main {
         System.out.println("Общииӣ вес продуктов " + oneKilog + " в кг");
 
         // Задание 4
+
         byte goalsLoseWeight = 7;
         int oneKilo = goalsLoseWeight * 1000;
         System.out.println("Цель похудеть на " + oneKilo + " грамм");
@@ -49,6 +54,7 @@ public class Main {
         System.out.println("Понадобится " + goal1 + " днеӣ теряя 500 грамм в день");
 
         // Задание 5
+
         int mashaSalary = 67760;
         byte totalOneYear = 12;
         float bonus = 0.10f;
